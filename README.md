@@ -1,6 +1,6 @@
-# LDMLP
+# LMSPS
 
-This repository contains a PyTorch implementation of the preprint paper:  [Long-range Dependency based Multi-Layer Perceptron for Heterogeneous Information Networks](https://arxiv.org/abs/2307.08430v1)
+This repository contains a PyTorch implementation of the preprint paper:  [Long-range Meta-path Search through Progressive Sampling on Large-scale Heterogeneous Information Networks](https://arxiv.org/abs/2307.08430v1)
 
 ## Requirements
 
